@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    ftpd (1.1.1)
+      memoizer (~> 1.0)
+    memoizer (1.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ftpd
